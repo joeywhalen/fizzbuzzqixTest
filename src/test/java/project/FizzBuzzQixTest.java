@@ -14,14 +14,14 @@ public class FizzBuzzQixTest {
 //    }
 
   @Test
-  public void oneShouldReturnOne() {
+  public void shouldReturnOneIfGivenOne() {
     FizzBuzzQix underTest = new FizzBuzzQix();
     String spokenWord = underTest.interpret(1);
     assertEquals("1", spokenWord);
   }
 
   @Test
-  public void twoShouldReturnTwo() {
+  public void shouldReturnTwoIfGivenTwo() {
     FizzBuzzQix underTest = new FizzBuzzQix();
     String spokenWord = underTest.interpret(2);
     assertEquals("2", spokenWord);
@@ -39,6 +39,13 @@ public class FizzBuzzQixTest {
     FizzBuzzQix underTest = new FizzBuzzQix();
     String spokenWord = underTest.interpret(132);
     assertEquals("Fizz", spokenWord);
+  }
+
+  @Test
+  public void shouldReturnFourIfGivenFour() {
+    FizzBuzzQix underTest = new FizzBuzzQix();
+    String spokenWord = underTest.interpret(4);
+    assertEquals("4", spokenWord);
   }
 
   @Test

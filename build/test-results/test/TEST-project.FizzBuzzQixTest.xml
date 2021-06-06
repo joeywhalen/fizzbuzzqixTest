@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="project.FizzBuzzQixTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2021-06-06T02:30:32" hostname="Joeys-MacBook-Air.local" time="0.068">
+<testsuite name="project.FizzBuzzQixTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2021-06-06T17:43:15" hostname="Joeys-MacBook-Air.local" time="0.074">
   <properties/>
-  <testcase name="ShouldReturnFizzIfGivenThree()" classname="project.FizzBuzzQixTest" time="0.04"/>
-  <testcase name="shouldReturnFizzQixIfGivenMultipleOfSevenAndThree()" classname="project.FizzBuzzQixTest" time="0.001"/>
-  <testcase name="shouldReturnQixIfGivenSeven()" classname="project.FizzBuzzQixTest" time="0.0"/>
-  <testcase name="twoShouldReturnTwo()" classname="project.FizzBuzzQixTest" time="0.01"/>
-  <testcase name="shouldReturnBuzzQixIfGivenMultipleOfSevenAndFive()" classname="project.FizzBuzzQixTest" time="0.0"/>
+  <testcase name="ShouldReturnFizzIfGivenThree()" classname="project.FizzBuzzQixTest" time="0.039"/>
+  <testcase name="shouldReturnFizzQixIfGivenMultipleOfSevenAndThree()" classname="project.FizzBuzzQixTest" time="0.002"/>
+  <testcase name="shouldReturnQixIfGivenSeven()" classname="project.FizzBuzzQixTest" time="0.001"/>
+  <testcase name="shouldReturnFourIfGivenFour()" classname="project.FizzBuzzQixTest" time="0.012"/>
+  <testcase name="shouldReturnBuzzQixIfGivenMultipleOfSevenAndFive()" classname="project.FizzBuzzQixTest" time="0.001"/>
+  <testcase name="shouldReturnTwoIfGivenTwo()" classname="project.FizzBuzzQixTest" time="0.001"/>
   <testcase name="shouldReturnFizzBuzzIfGivenMultipleOfFiveAndThree()" classname="project.FizzBuzzQixTest" time="0.001"/>
   <testcase name="shouldReturnBuzzIfGivenMultipleOfFive()" classname="project.FizzBuzzQixTest" time="0.001"/>
+  <testcase name="shouldReturnOneIfGivenOne()" classname="project.FizzBuzzQixTest" time="0.001"/>
   <testcase name="shouldReturnQixIfGivenMultipleOfSeven()" classname="project.FizzBuzzQixTest" time="0.001"/>
   <testcase name="shouldReturnFizzBuzzQixIfGivenMultipleOfSevenAndFiveAndThree()" classname="project.FizzBuzzQixTest" time="0.001"/>
-  <testcase name="oneShouldReturnOne()" classname="project.FizzBuzzQixTest" time="0.001"/>
   <testcase name="shouldReturnFizzIfGivenMultipleOfThree()" classname="project.FizzBuzzQixTest" time="0.001"/>
-  <testcase name="shouldReturnBuzzIfGivenFive()" classname="project.FizzBuzzQixTest" time="0.001"/>
+  <testcase name="shouldReturnBuzzIfGivenFive()" classname="project.FizzBuzzQixTest" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
