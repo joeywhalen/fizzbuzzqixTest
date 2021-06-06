@@ -24,7 +24,6 @@ public class FizzBuzzQix {
     if (numberToInterpret % 7 == 0) {
       return "Qix";
     }
-    return "" + numberToInterpret; //return "1";  //return "" + numberToInterpret.toString();
+    return "" + numberToInterpret;
   }
-
 }

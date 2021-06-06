@@ -96,5 +96,4 @@ public class FizzBuzzQixTest {
     String spokenWord = underTest.interpret(105);
     assertEquals("FizzBuzzQix", spokenWord);
   }
-
 }
