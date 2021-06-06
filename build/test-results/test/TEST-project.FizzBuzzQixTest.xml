@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="project.FizzBuzzQixTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2021-06-06T02:30:32" hostname="Joeys-MacBook-Air.local" time="0.068">
+  <properties/>
+  <testcase name="ShouldReturnFizzIfGivenThree()" classname="project.FizzBuzzQixTest" time="0.04"/>
+  <testcase name="shouldReturnFizzQixIfGivenMultipleOfSevenAndThree()" classname="project.FizzBuzzQixTest" time="0.001"/>
+  <testcase name="shouldReturnQixIfGivenSeven()" classname="project.FizzBuzzQixTest" time="0.0"/>
+  <testcase name="twoShouldReturnTwo()" classname="project.FizzBuzzQixTest" time="0.01"/>
+  <testcase name="shouldReturnBuzzQixIfGivenMultipleOfSevenAndFive()" classname="project.FizzBuzzQixTest" time="0.0"/>
+  <testcase name="shouldReturnFizzBuzzIfGivenMultipleOfFiveAndThree()" classname="project.FizzBuzzQixTest" time="0.001"/>
+  <testcase name="shouldReturnBuzzIfGivenMultipleOfFive()" classname="project.FizzBuzzQixTest" time="0.001"/>
+  <testcase name="shouldReturnQixIfGivenMultipleOfSeven()" classname="project.FizzBuzzQixTest" time="0.001"/>
+  <testcase name="shouldReturnFizzBuzzQixIfGivenMultipleOfSevenAndFiveAndThree()" classname="project.FizzBuzzQixTest" time="0.001"/>
+  <testcase name="oneShouldReturnOne()" classname="project.FizzBuzzQixTest" time="0.001"/>
+  <testcase name="shouldReturnFizzIfGivenMultipleOfThree()" classname="project.FizzBuzzQixTest" time="0.001"/>
+  <testcase name="shouldReturnBuzzIfGivenFive()" classname="project.FizzBuzzQixTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
